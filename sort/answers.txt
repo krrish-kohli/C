@@ -1,0 +1,11 @@
+sort1 uses: bubble
+
+How do you know?: This sort is bubble sort because it takes the least time in all the sorted files.
+
+sort2 uses: merge
+
+How do you know?: This sort is merge sort because it sorts all the random files in the least time.
+
+sort3 uses: selection
+
+How do you know?: This sort is selection sort because it takes the least time after sort2 in sorting all the random files and also it takes the least time after sort1 in all the sorted files.
