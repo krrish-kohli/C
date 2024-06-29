@@ -4,16 +4,16 @@ This repository contains solutions to various problem sets from the CS50x course
 
 ## Table of Contents
 
-- [Caesar](#caesar)
-- [Cash](#cash)
-- [Hello](#hello)
-- [Mario Less](#mario-less)
-- [Mario More](#mario-more)
-- [Plurality](#plurality)
-- [Readability](#readability)
-- [Runoff](#runoff)
-- [Scrabble](#scrabble)
-- [Volume](#volume)
+- Caesar
+- Cash
+- Hello
+- Mario Less
+- Mario More
+- Plurality
+- Readability
+- Runoff
+- Scrabble)
+- Volume
 
 
 ## Caesar
