@@ -117,3 +117,9 @@ A program that modifies the volume of an audio file.
 **Details:**
 - Takes an input audio file, an output file, and a factor to adjust the volume.
 - Modifies the volume of the input audio file by the specified factor and writes the result to the output file.
+
+## Installation and Usage
+1. Clone the repository:
+   ```bash
+   git clone <https://krrish-kohli.github.io/C/>
+   cd C
