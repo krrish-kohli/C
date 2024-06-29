@@ -12,7 +12,7 @@ This repository contains solutions to various problem sets from the CS50x course
 - Plurality
 - Readability
 - Runoff
-- Scrabble)
+- Scrabble
 - Volume
 
 
