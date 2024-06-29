@@ -1,6 +1,6 @@
 # C Projects
 
-This repository contains solutions to various problem sets from the CS50x course. Each program is implemented in C and aims to solve a specific problem using fundamental programming concepts.
+This repository contains various programs. Each program is implemented in C and aims to solve a specific problem using fundamental programming concepts.
 
 ## Table of Contents
 
