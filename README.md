@@ -121,5 +121,5 @@ A program that modifies the volume of an audio file.
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone <https://krrish-kohli.github.io/C/>
+   git clone https://github.com/krrish-kohli/C.git
    cd C
